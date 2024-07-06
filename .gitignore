@@ -6,3 +6,5 @@ backend/nw_backend/nw_backend/settings/local.py
 keypairec2.pem
 y
 y.pub
+start_both_servers.sh
+

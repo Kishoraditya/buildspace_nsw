@@ -1,7 +1,7 @@
 
 django-environ==0.11.2
-
-
+protobuf==5.26.1
+python-decouple==3.8
 Django==4.2.13
 wagtail==6.1.1
 wagtail-seo==2.5.0
